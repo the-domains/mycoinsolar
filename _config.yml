@@ -1,0 +1,34 @@
+layout_spectrum: 0.07818502982746404
+typography_spectrum: 0.9796424645813422
+color:
+  brandStrength: 0.265966573930576
+  lightness: 0.2180145429727612
+  saturation: 0.6951182614418097
+  rhythmicContrast: 0.5523589205425602
+  brandColors:
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: mycoin.solar
+content: []
+title: the solar community
+description: B2B sun energy credits to move the World
+purpose:
+  - type: contact
+    url: 'mailto:info@mycoin.solar'
+    label: Join the free sun energy movement
+url: 'https://mycoin.solar'
+github: true
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad8ee04a-1f01-4524-abf4-964878a4bd75.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/27d7e586-9e4f-4abe-a36d-27864e6a1bbb.png
