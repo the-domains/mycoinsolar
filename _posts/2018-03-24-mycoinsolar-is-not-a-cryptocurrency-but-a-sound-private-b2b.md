@@ -4,8 +4,8 @@ description: >-
   mycoin.solar is not a cryptocurrency but the first universal B2B contract
   platform for industries based on the forever wealth that provides free sun
   energy.
-dateModified: '2018-05-06T15:36:27.130Z'
-datePublished: '2018-05-06T15:36:27.803Z'
+dateModified: '2018-06-22T20:37:24.091Z'
+datePublished: '2018-06-22T20:37:24.999Z'
 title: ''
 author: []
 publisher: {}
@@ -23,7 +23,7 @@ _type: Article
 
 By now, membership is inquired via email through the Join button above or activated automatically for the customers of [Planet Expert][0] group of companies around Earth that **sun harvest energy to above an equivalent of \> 3 m3/hour of natural gas**. Cleantech and CO2 Neutral.
 
-Industries buy our **sun energy credits** directly or by way of energy savings and free power generation, along with a myriad of exclusive industrial processes sometimes optimised, sometimes reinvented thanks to our extreme free sun energy **(up to 400ºC by solar, beyond 1000ºC by solar gas (syngas HCO-H2CO), unlimited KWe, unlimited seawater and brackish distillation, wastes treatment, etc)**.
+Industries buy our **sun energy credits** directly or by way of energy savings and free power generation, along with a myriad of exclusive industrial processes sometimes optimised, sometimes reinvented thanks to our extreme free sun energy **(up to 400ºC by solar, beyond 1000ºC by solar gas (syngas HCO-H2CO), unlimited KWe, unlimited seawater desalination and brackish distillation, wastes treatment & valorisation, etc)**.
 
 The sun energy credits are used for **B2B trade** as well as to support **innovation programs on energy, sustainability, environment, nutrition, life sciences, arts & crafts and community projects** around the World.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dba87c0654c95969709407fc79399d967d93983d.jpg)
