@@ -1,11 +1,11 @@
 ---
 inFeed: true
 description: >-
-  mycoin.solar is not a cryptocurrency but the first universal B2B contract
-  platform for industries based on all environmental and economical benefits
-  that provides free sun energy.
-dateModified: '2018-09-08T22:44:05.790Z'
-datePublished: '2018-09-08T22:44:06.918Z'
+  mycoin.solar is not a cryptocurrency but the first B2B contract platform for
+  industries based on all environmental and economical benefits that provides
+  free sun energy.
+dateModified: '2018-09-08T22:45:12.407Z'
+datePublished: '2018-09-08T22:45:13.846Z'
 title: ''
 author: []
 publisher: {}
@@ -19,7 +19,7 @@ url: mycoinsolar-is-not-a-cryptocurrency-but-a-sound-private-b2b/index.html
 _type: Article
 
 ---
-**mycoin.solar** is not a cryptocurrency but the first universal **B2B contract platform for industries** based on all environmental and economical benefits that provides free sun energy.
+**mycoin.solar** is not a cryptocurrency but the first **B2B contract platform for industries** based on all environmental and economical benefits that provides free sun energy.
 
 By now, membership is inquired via email through the Join button above or activated automatically for the customers of [Planet Expert][0] group of companies around Earth that **sun harvest energy to above an equivalent of \> 3 m3/hour of natural gas**. Cleantech and CO2 Neutral.
 
