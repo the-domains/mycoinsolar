@@ -6,8 +6,8 @@ description: >-
   benefits that provide sun energy, avoiding huge CO2 emissions to the
   atmosphere and enjoying from the first day up to a 50% reduction on your
   current energy bill.
-dateModified: '2018-09-23T20:23:46.393Z'
-datePublished: '2018-09-23T20:23:47.254Z'
+dateModified: '2018-09-23T20:26:03.049Z'
+datePublished: '2018-09-23T20:26:04.064Z'
 title: ''
 author: []
 publisher: {}
@@ -29,7 +29,7 @@ Community members buy our **sun energy credits** directly or by way of energy sa
 
 By now, membership is inquired via email through the _Join button_ above or activated automatically for the customers of [Planet Expert][0] that **sun harvest energy to above an equivalent of \> 3 m3/hour of natural gas**. Cleantech and CO2 Free or CO2Neutral, depending on the solution provided to each member.
 
-Our service-profits are entirely used for a myriad of **B2B and B2C needs** as well as to support **innovation programs on energy, sustainability, environment, nutrition, life sciences, arts & crafts and community projects** around the World.
+Our service-profits are entirely reinvested on a myriad of **B2B and B2C needs** as well as to support **innovation programs on energy, sustainability, environment, nutrition, life sciences, arts & crafts and community projects** around the World.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dba87c0654c95969709407fc79399d967d93983d.jpg)
 
 [0]: http://planet.expert/ "Planet Expert"
