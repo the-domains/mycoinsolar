@@ -4,10 +4,10 @@ description: >-
   mycoin.solar is not a cryptocurrency but the first B2B & B2C contract platform
   for companies and individuals based on all environmental and economical
   benefits that provide sun energy, avoiding huge CO2 emissions to the
-  atmosphere and enjoying from the first day up to a 50% reduction on your
+  atmosphere and enjoying from the first day down to a 50% reduction on your
   current energy bill.
-dateModified: '2018-09-23T20:26:03.049Z'
-datePublished: '2018-09-23T20:26:04.064Z'
+dateModified: '2018-09-24T11:01:41.950Z'
+datePublished: '2018-09-24T11:01:44.033Z'
 title: ''
 author: []
 publisher: {}
@@ -21,9 +21,9 @@ url: mycoinsolar-is-not-a-cryptocurrency-but-a-sound-private-b2b/index.html
 _type: Article
 
 ---
-**mycoin.solar** is not a cryptocurrency but the first **B2B & B2C contract platform for companies and individuals** based on all environmental and economical benefits that provide sun energy,**avoiding huge CO2 emissions** to the atmosphere and enjoying from the first day up to a**50% reduction on your current energy bill**.
+**mycoin.solar** is not a cryptocurrency but the first **B2B & B2C contract platform for companies and individuals** based on all environmental and economical benefits that provide sun energy,**avoiding huge CO2 emissions** to the atmosphere and enjoying from the first day down to a**50% reduction on your current energy bill**.
 
-Community members buy our **sun energy credits** directly or by way of energy savings and free power generation up to a **50% discount from their current energy prices**, along with a myriad of exclusive industrial, community and residential processes sometimes optimised, sometimes reinvented thanks to our powerful free sun energy **(up to 400ºC by solar, beyond 1200ºC by solar gas (syngas HCO-H2CO), unlimited KWe, unlimited seawater desalination, water reutilisation along with brackish distillation, wastes treatment & valorisation, etc)**.
+Community members buy our **sun energy credits** directly or by way of energy savings and free power generation down to a **50% discount from your current energy prices**, along with a myriad of exclusive industrial, community and residential processes sometimes optimised, sometimes reinvented thanks to our powerful free sun energy **(up to 400ºC by solar, beyond 1200ºC by solar gas (syngas HCO-H2CO), unlimited KWe, unlimited seawater desalination, water reutilisation along with brackish distillation, wastes treatment & valorisation, etc)**.
 
 **Consult us, we have the perfect tailored solution for your energy needs.**
 
