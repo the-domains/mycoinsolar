@@ -6,8 +6,8 @@ description: >-
   benefits that provide sun energy, avoiding huge CO2 emissions to the
   atmosphere and enjoying from the first day down to a 50% reduction on your
   current energy bill.
-dateModified: '2018-09-24T11:01:41.950Z'
-datePublished: '2018-09-24T11:01:44.033Z'
+dateModified: '2018-09-24T11:01:55.428Z'
+datePublished: '2018-09-24T11:01:56.228Z'
 title: ''
 author: []
 publisher: {}
