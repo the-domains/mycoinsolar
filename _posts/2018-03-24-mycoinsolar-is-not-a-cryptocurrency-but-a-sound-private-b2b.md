@@ -1,13 +1,14 @@
 ---
 inFeed: true
 description: >-
-  mycoin.solar is not a cryptocurrency but the first B2B & B2C contract platform
-  sponsored by SUN.EXPERT for companies and individuals delivering all
-  environmental and economical benefits that provide sun energy, avoiding huge
-  CO2 emissions to the atmosphere and enjoying from the first day down to a 50%
-  reduction on your current energy bill.
-dateModified: '2018-09-24T11:07:31.556Z'
-datePublished: '2018-09-24T11:07:33.085Z'
+  mycoin.solar is not yet a cryptocurrency based on real value, energy & water,
+  but the first B2B & B2C contract platform sponsored by SUN.EXPERT for
+  companies and individuals delivering all environmental and economical benefits
+  that provide sun energy, avoiding huge CO2 emissions to the atmosphere and
+  enjoying from the first day down to a 50% reduction on your current energy
+  bill.
+dateModified: '2018-10-23T10:07:23.457Z'
+datePublished: '2018-10-23T10:07:25.482Z'
 title: ''
 author: []
 publisher: {}
@@ -21,11 +22,11 @@ url: mycoinsolar-is-not-a-cryptocurrency-but-a-sound-private-b2b/index.html
 _type: Article
 
 ---
-**mycoin.solar** is not a cryptocurrency but the first **B2B & B2C contract platform sponsored by [SUN.EXPERT][0] for companies and individuals** delivering all environmental and economical benefits that provide sun energy,**avoiding huge CO2 emissions** to the atmosphere and enjoying from the first day down to a**50% reduction on your current energy bill**.
+**mycoin.solar** is not yet a cryptocurrency based on real value, energy & water, but the first **B2B & B2C contract platform sponsored by [SUN.EXPERT][0] for companies and individuals** delivering all environmental and economical benefits that provide sun energy,**avoiding huge CO2 emissions** to the atmosphere and enjoying from the first day down to a**50% reduction on your current energy bill**.
 
-Community members buy our **sun energy credits** directly or by way of energy savings and free power generation down to a **50% discount from your current energy prices**, along with a myriad of exclusive industrial, community and residential processes sometimes optimised, sometimes reinvented thanks to our powerful free sun energy **(up to 400ºC by solar, beyond 1200ºC by solar gas (syngas HCO-H2CO), unlimited KWe, unlimited seawater desalination, water reutilisation along with brackish distillation, wastes treatment & valorisation, etc)**.
+Community members buy our **sun energy credits** directly or by way of energy savings and free power generation down to a **50% discount from your current energy prices**, along with a myriad of exclusive industrial, community and residential processes sometimes optimised, sometimes reinvented thanks to our powerful free sun energy **(up to 400ºC by solar, beyond 1200ºC by solar gas (syngas HCO-H2CO), unlimited electricity KWe, unlimited seawater desalination, water reutilisation along with brackish distillation, wastes treatment & valorisation, etc)**.
 
-**Consult us, we have the perfect tailored solution in kits for your energy needs.**
+**Consult us, we have the perfect tailored solution in kits for your energy & water needs.**
 
 By now, membership is inquired via email through the _Join button_ above or activated automatically for the customers of [Planet Expert][1] that **[sun harvest energy][2] to above an equivalent of \> 3 m3/hour of natural gas**. Cleantech and CO2 Free or CO2Neutral, depending on the solution provided to each member.
 
