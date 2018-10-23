@@ -7,9 +7,9 @@ description: >-
   that provide sun energy, avoiding huge CO2 emissions to the atmosphere and
   enjoying from the first day down to a 50% reduction on your current energy
   bill.
-dateModified: '2018-10-23T11:19:23.140Z'
-datePublished: '2018-10-23T11:19:25.187Z'
-title: ''
+dateModified: '2018-10-23T11:23:22.181Z'
+datePublished: '2018-10-23T11:23:23.604Z'
+title: Autonomous Energy Robots
 author: []
 publisher: {}
 via: {}
@@ -32,7 +32,11 @@ By now, membership is inquired via email through the _Join button_ above or acti
 
 Our service-profits are entirely reinvested on a myriad of **B2B and B2C needs** as well as to support **innovation programs on energy, sustainability, environment, nutrition, life sciences, arts & crafts and community projects** around the World.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dba87c0654c95969709407fc79399d967d93983d.jpg)
+
+### Autonomous Energy Robots
 ![SUN.EXPERT Compact Sun Harvester](https://the-grid-user-content.s3-us-west-2.amazonaws.com/effeeeac-156d-4397-93e5-61944d082e02.jpg)
+
+### Small Sun at ground level
 ![SUN.EXPERT Solar Port, photo done at sunset (during daylight is like trying to picture the sun itself)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1da62a6f-18a7-4939-b7b4-ca9731ff1dc4.jpg)
 
 [0]: http://SUN.EXPERT/
