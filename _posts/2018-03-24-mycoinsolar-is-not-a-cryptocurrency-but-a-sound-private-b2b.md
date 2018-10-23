@@ -7,8 +7,8 @@ description: >-
   that provide sun energy, avoiding huge CO2 emissions to the atmosphere and
   enjoying from the first day down to a 50% reduction on your current energy
   bill.
-dateModified: '2018-10-23T11:27:23.843Z'
-datePublished: '2018-10-23T11:27:24.870Z'
+dateModified: '2018-10-23T11:36:13.123Z'
+datePublished: '2018-10-23T11:36:15.116Z'
 title: 'Autonomous Energy Robots, SUN.EXPERT Compact Sun Harvester'
 author: []
 publisher: {}
@@ -24,7 +24,7 @@ _type: Article
 ---
 **mycoin.solar** is not yet a cryptocurrency based on real value, energy & water, but the first **B2B & B2C contract platform sponsored by [SUN.EXPERT][0] for companies and individuals** delivering all environmental and economical benefits that provide sun energy,**avoiding huge CO2 emissions** to the atmosphere and enjoying from the first day down to a**50% reduction on your current energy bill**.
 
-Community members buy our **sun energy credits** directly or by way of energy savings and free power generation down to a **50% discount from your current energy prices**, along with a myriad of exclusive industrial, community and residential processes sometimes optimised, sometimes reinvented thanks to our powerful free sun energy **(up to 400ºC by solar, beyond 1200ºC by solar gas (syngas HCO-H2CO), unlimited electricity KWe, unlimited seawater desalination, water reutilisation along with brackish distillation, wastes treatment & valorisation, etc)**.
+Community members buy our **sun energy credits** directly or by way of energy savings and free power generation down to a **50% discount from their current energy prices**, along with a myriad of exclusive industrial, community and residential processes sometimes optimised, sometimes reinvented thanks to our powerful free sun energy **(up to 400ºC by solar, beyond 1200ºC by solar gas (syngas HCO-H2CO), unlimited electricity KWe, unlimited seawater desalination, water reutilisation along with brackish distillation, wastes treatment & valorisation, etc)**.
 
 **Consult us, we have the perfect tailored solution in kits for your energy & water needs.**
 
