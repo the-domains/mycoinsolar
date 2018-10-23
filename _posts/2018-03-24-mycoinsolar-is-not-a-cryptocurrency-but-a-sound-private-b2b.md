@@ -7,8 +7,8 @@ description: >-
   that provide sun energy, avoiding huge CO2 emissions to the atmosphere and
   enjoying from the first day down to a 50% reduction on your current energy
   bill.
-dateModified: '2018-10-23T11:15:53.070Z'
-datePublished: '2018-10-23T11:15:54.335Z'
+dateModified: '2018-10-23T11:19:23.140Z'
+datePublished: '2018-10-23T11:19:25.187Z'
 title: ''
 author: []
 publisher: {}
