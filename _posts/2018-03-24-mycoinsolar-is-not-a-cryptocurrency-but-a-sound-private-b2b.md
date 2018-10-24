@@ -7,8 +7,8 @@ description: >-
   that provide sun energy, avoiding huge CO2 emissions to the atmosphere and
   enjoying from the first day down to a 50% reduction on your current energy
   bill.
-dateModified: '2018-10-23T11:49:31.826Z'
-datePublished: '2018-10-23T11:49:34.171Z'
+dateModified: '2018-10-24T11:37:28.044Z'
+datePublished: '2018-10-24T11:37:29.562Z'
 title: 'Autonomous Energy Robots, SUN.EXPERT Compact Sun Harvester'
 author: []
 publisher: {}
@@ -36,7 +36,7 @@ Our service-profits are entirely reinvested on a myriad of **B2B and B2C needs**
 ### Autonomous Energy Robots, SUN.EXPERT Compact Sun Harvester
 ![SUN.EXPERT Compact Sun Harvester](https://the-grid-user-content.s3-us-west-2.amazonaws.com/effeeeac-156d-4397-93e5-61944d082e02.jpg)
 
-### Like an small sun at ground level or at the ceiling, SUN.EXPERT Solar Port, photo taken during sunset (with normal daylight it is so bright, like trying to picture the sun itself)
+### Like an small sun at ground level or at the roof, SUN.EXPERT Solar Port, photo taken during sunset (with normal daylight it is so bright, it is like trying to picture the sun itself...)
 ![SUN.EXPERT Solar Port, SUN.EXPERT Solar Port, photo taken during sunset (with normal daylight it is so bright, like trying to picture the sun itself)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1da62a6f-18a7-4939-b7b4-ca9731ff1dc4.jpg)
 
 [0]: http://SUN.EXPERT/
